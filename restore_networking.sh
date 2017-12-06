@@ -10,3 +10,4 @@ sudo cp ./networking.1310 /etc/init.d/networking
 
 # test & restart networking
 sudo service networking restart
+sudo service network-manager restart
